@@ -1,4 +1,4 @@
-# Computer Lab
+# Study Log
 
 A personal learning repository — a collection of notes, exercises, and code from courses, books, and tutorials I'm working through.
 
